@@ -5,12 +5,12 @@ export default function Header() {
         <div className="absolute inset-0 bg-grid-slate-900/[0.04] -z-10" />
         <div className="container mx-auto px-4 py-16 text-center">
           <img
-            src="src/profile_img.jpg"
+            src="profile_img.jpg"
             alt="Profile of Joshua Calvin"
             className="w-32 h-32 rounded-full mx-auto mb-8 object-cover shadow-lg"
           />
           <h1 className="text-5xl font-bold text-gray-900 mb-4">Joshua Calvin</h1>
-          <p className="text-xl text-gray-600 mb-8">Full Stack Developer</p>
+          <p className="text-xl text-gray-600 mb-8">Full Stack Developer & Data Analytic</p>
           <div className="flex justify-center gap-4">
             <a
               href="https://github.com/jocalvinshua"
